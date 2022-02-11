@@ -17,7 +17,7 @@ var txt: string = "<a href=\"pic2shop://scan?callback=" & ss & "\">hererer</a>"
 
 echo txt
 
-# ÅĞÏ¿(isbn, noisbn)¡¢°ìÍ÷¡¢ÃªÈÖÅĞÏ¿¡¢ºï½ü¡¢ÊÑ¹¹
+# ç™»éŒ²(isbn, noisbn)ã€ä¸€è¦§ã€æ£šç•ªç™»éŒ²ã€å‰Šé™¤ã€å¤‰æ›´
 router main_router:
   get "/":
     echo "aaddabbb"
